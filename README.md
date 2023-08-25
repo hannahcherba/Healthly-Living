@@ -1,2 +1,2 @@
-# IlyaProfile
- A business profile for Ilya
+# Healthy-living
+ An example health blog
